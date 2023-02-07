@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Launch-X-Latam](https://github.com/Launch-X-Latam)
 
-- 🌱 I’m currently learning **HTML,CSS and JS**
+- 🌱 I’m currently learning **AZURE AZ-500 & AWS-SAA**
 
 - 💬 Ask me about **Networking, Security, Windows and Linux Server**
 
