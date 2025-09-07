@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/jesuscarlosv" target="blank"><img src="https://img.shields.io/twitter/follow/jesuscarlosv?logo=twitter&style=for-the-badge" alt="jesuscarlosv" /></a> </p>
 
-- 🔭 I’m currently working on [Launch-X-Latam](https://github.com/Launch-X-Latam)
+- 🔭 I’m currently working on [SoftServe - DevOps 1: Linux and Networking](https://career.softserveinc.com/en-us/technology/course/os-networks-fundamentals)
 
-- 🌱 I’m currently learning **AZURE AZ-500 & AWS-SAA**
+- 🌱 I’m currently learning **AWS, AZURE, Cybersecurity**
 
 - 💬 Ask me about **Networking, Security, Windows and Linux Server**
 
